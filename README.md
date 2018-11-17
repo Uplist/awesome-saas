@@ -15,6 +15,14 @@
 
 - [Firebase](https://firebase.google.com)
 
+## Email-as-a-Service (EaaS)
+
+- [Amazon Simple Email Service](https://aws.amazon.com/ses/)
+- [SendGrid](https://sendgrid.com)
+  - [Autoresponder](https://sendgrid.com/docs/glossary/autoresponder/)
+  - [Email Marketing Automation](https://sendgrid.com/solutions/marketing-automation/)
+  - [Scheduling Email](https://sendgrid.com/docs/for-developers/sending-email/scheduling-email/)
+
 ## Function-as-a-Service (FaaS)
 
 - [AWS Lambda](https://aws.amazon.com/lambda/)
