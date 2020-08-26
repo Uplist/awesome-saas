@@ -6,6 +6,7 @@
 - [Auth0](https://auth0.com)
 - [Okta](https://www.okta.com)
 - [Amazon Cognito](https://aws.amazon.com/cognito/)
+- [LoginRadius](https://www.loginradius.com/)
 
 ### Articles
 
