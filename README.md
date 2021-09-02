@@ -6,6 +6,7 @@
 - [Auth0](https://auth0.com)
 - [Okta](https://www.okta.com)
 - [Amazon Cognito](https://aws.amazon.com/cognito/)
+- [MojoAuth](https://mojoauth.com)
 
 ### Articles
 
